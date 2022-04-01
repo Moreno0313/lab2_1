@@ -1,0 +1,3 @@
+/home/alse/Documents/Tercio_2/Laboratorio2_gr1/CMakeFiles/rebuild_cache.dir
+/home/alse/Documents/Tercio_2/Laboratorio2_gr1/CMakeFiles/Programa_gr1.bin.dir
+/home/alse/Documents/Tercio_2/Laboratorio2_gr1/CMakeFiles/edit_cache.dir

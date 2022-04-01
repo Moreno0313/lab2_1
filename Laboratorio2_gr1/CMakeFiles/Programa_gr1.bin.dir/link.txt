@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/Programa_gr1.bin.dir/src/files_ops1.c.o CMakeFiles/Programa_gr1.bin.dir/src/funciones_gr1.c.o CMakeFiles/Programa_gr1.bin.dir/src/main.c.o  -o bin/Programa_gr1.bin 

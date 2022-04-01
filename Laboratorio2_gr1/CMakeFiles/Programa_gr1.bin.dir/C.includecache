@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alse/Documents/Tercio_2/Laboratorio2_gr1/src/files_ops1.c
+lib1.h
+/home/alse/Documents/Tercio_2/Laboratorio2_gr1/src/lib1.h
+
+/home/alse/Documents/Tercio_2/Laboratorio2_gr1/src/funciones_gr1.c
+
+/home/alse/Documents/Tercio_2/Laboratorio2_gr1/src/main.c
+lib_gr1.h
+/home/alse/Documents/Tercio_2/Laboratorio2_gr1/src/lib_gr1.h
+lib1.h
+/home/alse/Documents/Tercio_2/Laboratorio2_gr1/src/lib1.h
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+string.h
+-
+
+include/lib1.h
+stdio.h
+-
+stdlib.h
+-
+
+include/lib_gr1.h
+stdio.h
+-
+
